@@ -29,3 +29,6 @@ dkn-compute-launcher referrals
 
 ## 8. 卸载节点
 dkn-compute-launcher uninstall
+
+## 9.官方说明
+https://node-guide.dria.co/how-to-run
